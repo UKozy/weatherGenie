@@ -1,0 +1,22 @@
+{
+  "name": "weather-genie",
+  "version": "1.0.0",
+  "description": "This web app will essentially describe what to wear based on the temperature of your area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKozy/weatherGenie.git"
+  },
+  "author": "Upasana Kozyachaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UKozy/weatherGenie/issues"
+  },
+  "homepage": "https://github.com/UKozy/weatherGenie#readme",
+  "dependencies": {
+    "react": "^15.3.2"
+  }
+}
